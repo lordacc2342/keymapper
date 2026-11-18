@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Key Mapper</string>
+    <string name="desc">Mengubah tombol keyboard fisik menjadi sentuhan layar saat mode ON. Hanya bereaksi pada tombol yang Anda tekan.</string>
+</resources>
